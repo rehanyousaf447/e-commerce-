@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522140483569",
+    "firebase_url": "https://gwbhai-de48f.firebaseio.com",
+    "project_id": "gwbhai-de48f",
+    "storage_bucket": "gwbhai-de48f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522140483569:android:6b4045e8ca39124b280e50",
+        "android_client_info": {
+          "package_name": "com.rehanyousaf.gwbhai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522140483569-2vieb7ulesc47rsoobtfnhg64o844blu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyQOGz7C767j71sFtdfXQ8wkrQCSBfxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522140483569-2vieb7ulesc47rsoobtfnhg64o844blu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
